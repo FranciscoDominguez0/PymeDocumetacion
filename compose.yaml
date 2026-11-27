@@ -1,0 +1,18 @@
+services:
+  manual:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pyme-manual
+    restart: unless-stopped
+    expose:
+      - "80"
+    ports:
+      - "8085:80"
+    networks:
+      - npm_network
+
+networks:
+  npm_network:
+    external: true
+    name: nginx-proxy-manager_default

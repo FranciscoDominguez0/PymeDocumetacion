@@ -1,0 +1,103 @@
+---
+layout: home
+
+hero:
+  name: "PayMe Panamá"
+  text: "Manual de Usuario y Operaciones"
+  tagline: "Guía paso a paso para aprender a comprar en la tienda online y administrar tu negocio en Panamá."
+  actions:
+    - theme: brand
+      text: "Manual del Cliente →"
+      link: /cliente/
+    - theme: alt
+      text: "Manual de Administración →"
+      link: /admin/
+
+features:
+  - title: Cómo Comprar en la Tienda
+    details: Aprende paso a paso cómo buscar productos, usar filtros de precio, ver fotos en grande y elegir tallas o colores.
+    link: /cliente/catalogo
+  - title: Cómo Pagar con Yappy y Tarjetas
+    details: Paga con Yappy de Banco General, tarjetas Visa/Mastercard, Clave o transferencia bancaria ACH sin enredos.
+    link: /cliente/checkout
+  - title: Rastrear tu Paquete y Facturas
+    details: Sigue el avance de tu entrega en Panamá, copia tu número de guía y descarga tu factura oficial en PDF.
+    link: /cliente/pedidos
+  - title: Panel de Ventas para tu Negocio
+    details: Conoce cómo leer los números de tu tienda, ver las ventas del día y saber si algún producto se está agotando.
+    link: /admin/dashboard
+  - title: Cómo Agregar Productos y Stock
+    details: Sube nuevos artículos con sus fotos, precios de oferta, impuesto del 7% y controla las existencias en bodega.
+    link: /admin/productos
+  - title: Cómo Atender Pedidos y Facturar
+    details: Revisa pagos, imprime facturas fiscales en PDF o tickets térmicos para pegar en los paquetes de tus clientes.
+    link: /admin/pedidos
+---
+
+## Módulos de Administración
+
+<div class="factus-grid">
+  <a href="/admin/" class="factus-card">
+    <div class="factus-card-title">1. Visión General y Acceso <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Inicio de sesión en el panel, asignación de roles y permisos del personal.</div>
+  </a>
+  <a href="/admin/dashboard" class="factus-card">
+    <div class="factus-card-title">2. Dashboard y KPIs de Ventas <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Ventas del día en tiempo real, órdenes pendientes y alertas de inventario bajo.</div>
+  </a>
+  <a href="/admin/productos" class="factus-card">
+    <div class="factus-card-title">3. Catálogo y Variantes <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Publicación de productos, fotos en alta resolución, precios con 7% ITBMS y tallas.</div>
+  </a>
+  <a href="/admin/inventario" class="factus-card">
+    <div class="factus-card-title">4. Control de Inventario <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Kardex de entradas y salidas, recepción de mercancía y ajustes de almacén.</div>
+  </a>
+  <a href="/admin/pedidos" class="factus-card">
+    <div class="factus-card-title">5. Gestión de Pedidos <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Flujo de estados de compra, validación de pagos, empaque y despachos con guía.</div>
+  </a>
+  <a href="/admin/facturacion" class="factus-card">
+    <div class="factus-card-title">6. Facturación y Anulaciones <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Impresión de facturas en hoja carta o ticket térmico y emisión de notas de crédito.</div>
+  </a>
+  <a href="/admin/configuracion" class="factus-card">
+    <div class="factus-card-title">7. Envíos y Cupones <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Tarifas de flete por provincia en Panamá y creación de cupones promocionales.</div>
+  </a>
+</div>
+
+---
+
+## Guía de Compra para Clientes
+
+<div class="factus-grid">
+  <a href="/cliente/" class="factus-card">
+    <div class="factus-card-title">1. Bienvenido a la Tienda <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Conoce la tienda online y cómo navegar desde tu celular o computadora.</div>
+  </a>
+  <a href="/cliente/cuenta" class="factus-card">
+    <div class="factus-card-title">2. Registro, Seguridad y Direcciones <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Cómo registrarte en 1 clic con Google, cambiar tu clave y configurar tus direcciones.</div>
+  </a>
+  <a href="/cliente/catalogo" class="factus-card">
+    <div class="factus-card-title">3. Búsqueda y Filtros <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Buscador predictivo, navegación por categorías y filtros de precio o marca.</div>
+  </a>
+  <a href="/cliente/producto" class="factus-card">
+    <div class="factus-card-title">4. Ficha de Producto y Fotos <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Galería de fotos HD, selección de colores, capacidades y disponibilidad.</div>
+  </a>
+  <a href="/cliente/carrito" class="factus-card">
+    <div class="factus-card-title">5. Carrito de Compras <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Revisión de tu bolsa de compras, cantidades y cupones de descuento.</div>
+  </a>
+  <a href="/cliente/checkout" class="factus-card">
+    <div class="factus-card-title">6. Checkout y Métodos de Pago <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Proceso de pago paso a paso con Yappy, tarjetas Visa/Mastercard, Clave o ACH.</div>
+  </a>
+  <a href="/cliente/pedidos" class="factus-card">
+    <div class="factus-card-title">7. Seguimiento, Facturas y Devoluciones <span class="arrow">→</span></div>
+    <div class="factus-card-desc">Rastreo en tiempo real, factura fiscal en PDF y guía completa de cambios o devoluciones.</div>
+  </a>
+</div>

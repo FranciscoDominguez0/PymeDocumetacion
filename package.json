@@ -1,0 +1,17 @@
+{
+  "name": "manual-payme-panama",
+  "version": "1.0.0",
+  "description": "Manual de Usuario y Administrador para PayMe Panamá",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --port 5174",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.19.0"
+  }
+}
