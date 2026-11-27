@@ -29,7 +29,7 @@ Al entrar a [https://pyme.rsfsecure.site/](https://pyme.rsfsecure.site/) verás 
  <span class="screenshot-url">https://pyme.rsfsecure.site/</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/cliente/home-storefront.png" alt="Portada Principal de la Tienda" />
+ <img src="/images/cliente/home-storefront.webp" alt="Portada Principal de la Tienda" loading="lazy" decoding="async" />
  </div>
 </div>
 

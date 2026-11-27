@@ -20,7 +20,7 @@ Para comprar en PayMe Panamá puedes crear una cuenta nueva en menos de un minut
     <span class="screenshot-url">https://pyme.rsfsecure.site/register</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/registro-login.png" alt="Registro de Clientes e Inicio de Sesión" />
+    <img src="/images/cliente/registro-login.webp" alt="Registro de Clientes e Inicio de Sesión" loading="lazy" decoding="async" />
   </div>
 </div>
 

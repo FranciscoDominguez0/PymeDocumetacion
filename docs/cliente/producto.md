@@ -17,7 +17,7 @@ Al abrir cualquier producto de la tienda encontrarás sus fotografías en alta r
     <span class="screenshot-url">https://pyme.rsfsecure.site/producto/...</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/producto-detalle.png" alt="Ficha del Producto, Fotos y Variantes" />
+    <img src="/images/cliente/producto-detalle.webp" alt="Ficha del Producto, Fotos y Variantes" loading="lazy" decoding="async" />
   </div>
 </div>
 

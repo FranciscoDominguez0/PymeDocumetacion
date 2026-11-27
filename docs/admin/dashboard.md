@@ -19,7 +19,7 @@ En la parte superior de la pantalla verás 4 tarjetas con los datos más importa
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/dashboard</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/dashboard-kpis.png" alt="Pantalla Principal con Métricas de Venta" />
+ <img src="/images/admin/dashboard-kpis.webp" alt="Pantalla Principal con Métricas de Venta" loading="lazy" decoding="async" />
  </div>
 </div>
 

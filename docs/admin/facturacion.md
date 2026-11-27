@@ -19,7 +19,7 @@ Cada vez que un pedido pasa al estado **Pagado**, el sistema genera automáticam
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/facturas/...</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/facturacion-pdf.png" alt="Vista de Factura Fiscal para Imprimir" />
+ <img src="/images/admin/facturacion-pdf.webp" alt="Vista de Factura Fiscal para Imprimir" loading="lazy" decoding="async" />
  </div>
 </div>
 

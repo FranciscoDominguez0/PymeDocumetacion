@@ -17,7 +17,7 @@ El módulo de **Pedidos** ([https://pyme.rsfsecure.site/admin/pedidos](https://p
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/pedidos</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/pedidos-lista.png" alt="Listado de Pedidos y Estados de Entrega" />
+ <img src="/images/admin/pedidos-lista.webp" alt="Listado de Pedidos y Estados de Entrega" loading="lazy" decoding="async" />
  </div>
 </div>
 
@@ -52,7 +52,7 @@ Haz clic en cualquier pedido para abrir su detalle ([https://pyme.rsfsecure.site
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/pedidos/...</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/pedido-detalle.png" alt="Ficha de Atención del Pedido y Asignación de Guía" />
+ <img src="/images/admin/pedido-detalle.webp" alt="Ficha de Atención del Pedido y Asignación de Guía" loading="lazy" decoding="async" />
  </div>
 </div>
 

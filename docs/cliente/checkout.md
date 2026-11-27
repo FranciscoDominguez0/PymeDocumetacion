@@ -19,7 +19,7 @@ Para iniciar el pago, pulsa **"Finalizar Compra"** en tu carrito o entra directo
     <span class="screenshot-url">https://pyme.rsfsecure.site/checkout</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/checkout-pasos.png" alt="Datos de Envío y Dirección en el Checkout" />
+    <img src="/images/cliente/checkout-pasos.webp" alt="Datos de Envío y Dirección en el Checkout" loading="lazy" decoding="async" />
   </div>
 </div>
 
@@ -48,7 +48,7 @@ En la pantalla final de pago ([https://pyme.rsfsecure.site/checkout/pago](https:
     <span class="screenshot-url">https://pyme.rsfsecure.site/checkout/pago</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/checkout-pago.png" alt="Opciones de Pago en Panamá" />
+    <img src="/images/cliente/checkout-pago.webp" alt="Opciones de Pago en Panamá" loading="lazy" decoding="async" />
   </div>
 </div>
 

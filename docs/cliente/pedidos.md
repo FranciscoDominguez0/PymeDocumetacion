@@ -19,7 +19,7 @@ Apenas se completa tu pago, la pantalla te muestra la confirmación inmediata de
     <span class="screenshot-url">https://pyme.rsfsecure.site/pedidos/.../confirmacion</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/pedido-confirmado.png" alt="Pantalla de Pedido Confirmado" />
+    <img src="/images/cliente/pedido-confirmado.webp" alt="Pantalla de Pedido Confirmado" loading="lazy" decoding="async" />
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Puedes revisar tus compras anteriores y pedidos activos en cualquier momento:
     <span class="screenshot-url">https://pyme.rsfsecure.site/cliente/pedidos</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/perfil-pedidos.png" alt="Historial de Compras y Seguimiento de Entrega" />
+    <img src="/images/cliente/perfil-pedidos.webp" alt="Historial de Compras y Seguimiento de Entrega" loading="lazy" decoding="async" />
   </div>
 </div>
 

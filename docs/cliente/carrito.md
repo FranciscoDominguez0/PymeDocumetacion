@@ -19,7 +19,7 @@ Cada vez que agregas un producto desde el catálogo o la ficha detallada, se des
     <span class="screenshot-url">https://pyme.rsfsecure.site/ (abrir carrito)</span>
   </div>
   <div class="screenshot-body">
-    <img src="/images/cliente/carrito-drawer.png" alt="Ventana Lateral del Carrito de Compras" />
+    <img src="/images/cliente/carrito-drawer.webp" alt="Ventana Lateral del Carrito de Compras" loading="lazy" decoding="async" />
   </div>
 </div>
 

@@ -19,7 +19,7 @@ Para ver todos los productos entra a [https://pyme.rsfsecure.site/catalogo](http
  <span class="screenshot-url">https://pyme.rsfsecure.site/catalogo</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/cliente/catalogo-filtros.png" alt="Catálogo General con Barra de Filtros" />
+ <img src="/images/cliente/catalogo-filtros.webp" alt="Catálogo General con Barra de Filtros" loading="lazy" decoding="async" />
  </div>
 </div>
 
@@ -46,7 +46,7 @@ Si ya sabes el nombre o modelo de lo que buscas, usa la barra superior:
  <span class="screenshot-url">https://pyme.rsfsecure.site/catalogo</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/cliente/busqueda-predictiva.png" alt="Búsqueda Inteligente con Resultados Inmediatos" />
+ <img src="/images/cliente/busqueda-predictiva.webp" alt="Búsqueda Inteligente con Resultados Inmediatos" loading="lazy" decoding="async" />
  </div>
 </div>
 

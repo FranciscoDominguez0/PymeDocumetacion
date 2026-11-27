@@ -20,7 +20,7 @@ El **Panel de Administración** es el centro de mando donde los encargados de la
  <span class="screenshot-url">https://pyme.rsfsecure.site/login</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/login-admin.png" alt="Formulario de Inicio de Sesión de la Administración" />
+ <img src="/images/admin/login-admin.webp" alt="Formulario de Inicio de Sesión de la Administración" loading="lazy" decoding="async" />
  </div>
 </div>
 

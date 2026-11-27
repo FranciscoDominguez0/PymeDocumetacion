@@ -19,7 +19,7 @@ Para fijar cuánto cuesta enviar a cada provincia entra a [https://pyme.rsfsecur
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/zonas</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/zonas-envio.png" alt="Configuración de Tarifas de Envío por Provincia" />
+ <img src="/images/admin/zonas-envio.webp" alt="Configuración de Tarifas de Envío por Provincia" loading="lazy" decoding="async" />
  </div>
 </div>
 

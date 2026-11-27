@@ -19,7 +19,7 @@ Cada vez que se vende un artículo en la tienda, el sistema descuenta automátic
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/inventario</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/inventario-kardex.png" alt="Control de Inventario y Movimientos de Almacén" />
+ <img src="/images/admin/inventario-kardex.webp" alt="Control de Inventario y Movimientos de Almacén" loading="lazy" decoding="async" />
  </div>
 </div>
 

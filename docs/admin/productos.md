@@ -17,7 +17,7 @@ Desde el módulo de **Productos** ([https://pyme.rsfsecure.site/admin/productos]
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/productos</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/productos-lista.png" alt="Catálogo General de Productos en Administración" />
+ <img src="/images/admin/productos-lista.webp" alt="Catálogo General de Productos en Administración" loading="lazy" decoding="async" />
  </div>
 </div>
 
@@ -43,7 +43,7 @@ Para subir un artículo nuevo, haz clic en el botón verde **"+ Nuevo Producto"*
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/productos/create</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/producto-nuevo.png" alt="Formulario de Creación de Producto" />
+ <img src="/images/admin/producto-nuevo.webp" alt="Formulario de Creación de Producto" loading="lazy" decoding="async" />
  </div>
 </div>
 
@@ -73,7 +73,7 @@ Si un producto tiene diferentes opciones (por ejemplo: memoria de 128GB o 256GB,
  <span class="screenshot-url">https://pyme.rsfsecure.site/admin/productos/.../variantes</span>
  </div>
  <div class="screenshot-body">
- <img src="/images/admin/producto-variantes.png" alt="Opciones de Colores, Tallas y Variantes" />
+ <img src="/images/admin/producto-variantes.webp" alt="Opciones de Colores, Tallas y Variantes" loading="lazy" decoding="async" />
  </div>
 </div>
 
