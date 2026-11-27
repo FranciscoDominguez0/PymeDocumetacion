@@ -9,7 +9,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci || npm install
 
-# Copiar todo el código fuente y compilar la documentación
+# Copiar código fuente y compilar la documentación
 COPY . .
 RUN npm run build
 
@@ -18,14 +18,9 @@ RUN npm run build
 # ==========================================
 FROM nginx:alpine
 
-# Copiar configuración personalizada optimizada para VitePress
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-
-# Copiar los archivos estáticos generados por VitePress
+# Copiar los archivos estáticos generados por VitePress a Nginx
 COPY --from=builder /app/docs/.vitepress/dist /usr/share/nginx/html
 
 EXPOSE 80
-
-STOPSIGNAL SIGQUIT
 
 CMD ["nginx", "-g", "daemon off;"]
